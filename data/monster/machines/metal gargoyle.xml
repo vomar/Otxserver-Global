@@ -27,8 +27,20 @@
 		<element deathPercent="-10"/>
 	</elements>
 	<loot>
-		<item id="2148" countmax="47" chance="82000"/><!-- gold coin -->
-		<item id="7618" chance="210"/><!-- health potion -->
-		<item id="2666" chance="30070"/><!-- meat -->
+		<item id="2148" countmax="200" chance="100000"/><!-- gold coin -->
+		<item id="2152" countmax="2" chance="45210"/><!-- Platinum Coin -->
+		<item id="23564" chance="17890"/><!-- Metal Jaw -->
+		<item id="7589" countmax="2" chance="9120"/><!-- Strong Mana Potion -->
+		<item id="7588" countmax="2" chance="8860"/><!-- Strong Health Potion -->
+		<item id="23540" chance="3020"/><!-- Metal Spats -->
+		<item id="9810" chance="2690"/><!-- Rusty Armor (Rare) -->
+		<item id="9690" chance="2650"/><!-- "Bronze xD" Gear Wheel -->
+		<item id="11227" chance="1430"/><!-- Shiny Stone -->
+		<item id="23539" chance="980"/><!-- Alloy Legs -->
+		<item id="23542" chance="970"/><!-- Metal Bat -->
+		<item id="8910" chance="870"/><!-- Underworld Rod -->
+		<item id="2168" chance="550"/><!-- Life Ring -->
+		<item id="2167" chance="520"/><!-- Energy Ring -->
+		<item id="5880" chance="510"/><!-- Iron Ore -->
 	</loot>
 </monster>

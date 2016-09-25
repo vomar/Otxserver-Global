@@ -27,27 +27,26 @@
 		<element deathPercent="-10"/>
 	</elements>
 	<loot>
-		<item id="2148" countmax="47" chance="82000"/><!-- gold coin -->
-		<item id="7618" chance="20100"/><!-- health potion -->
-		<item id="2666" chance="30070"/><!-- meat -->
-		<item id="2152" chance="10010"/><!-- platinum coin -->
-		<item id="23474" chance="10010"/><!-- glooth injection tube -->
-		<item id="23514" chance="30070"/><!-- glooth sandwich -->
-		<item id="7590" chance="2500"/><!-- great mana potion -->
-		<item id="8473" chance="28000"/><!-- ultimate health potion -->
-		<item id="9970" countmax="2" chance="2280"/><!-- small topaze -->
-		<item id="23554" chance="2280"/><!-- glooth amulet -->
-		<item id="2149" countmax="2" chance="2280"/><!-- small emerald -->
-		<item id="5880" chance="2280"/><!-- iron ore -->
-		<item id="9690" chance="1200"/><!-- gear wheel -->
-		<item id="23541" chance="1200"/><!-- gearwheel chain -->
-		<item id="23551" chance="1200"/><!-- glooth axe -->
-		<item id="23549" chance="1200"/><!-- glooth club -->
-		<item id="23529" chance="1200"/><!-- glooth spear -->
-		<item id="2155" chance="1200"/><!-- green gem -->
-		<item id="23538" chance="1200"/><!-- heat core -->
-		<item id="23536" chance="1200"/><!-- rubber cap -->
-		<item id="2154" chance="1200"/><!-- yellow gem -->
-		<item id="23550" chance="200"/><!-- glooth blade -->
-		</loot>
+		<item id="2148" countmax="200" chance="100000"/><!-- gold coin -->
+		<item id="2152" countmax="4" chance="60140"/><!-- Platinum Coin -->
+		<item id="23474" chance="15130"/><!-- Glooth Injection Tube -->
+		<item id="7590" chance="11900"/><!-- Great Mana Potion -->
+		<item id="23514" chance="9980"/><!-- Glooth Sandwich -->
+		<item id="2149" countmax="4" chance="8080"/><!-- Small Emerald -->
+		<item id="9970" countmax="4" chance="7990"/><!-- Small Topaz -->
+		<item id="8473" chance="5040"/><!-- Ultimate Health Potion	 -->
+		<item id="9690" chance="3060"/><!-- "Bronze xD" Gear Wheel -->
+		<item id="5880" chance="2010"/><!-- Iron Ore -->
+		<item id="23529" chance="1560"/><!-- Glooth Spear -->
+		<item id="23551" chance="1510"/><!-- Glooth Axe -->
+		<item id="9690" chance="1510"/><!-- Gear Wheel -->
+		<item id="23538" chance="1500"/><!-- Heat Core -->
+		<item id="23554" chance="1500"/><!-- Glooth Amulet -->
+		<item id="23550" chance="1500"/><!-- Glooth Blade -->
+		<item id="23541" chance="1000"/><!-- Gearwheel Chain -->
+		<item id="23536" chance="990"/><!-- Rubber Cap -->
+		<item id="23549" chance="940"/><!-- Glooth Club -->
+		<item id="2154" chance="820"/><!-- Yellow Gem -->
+		<item id="2155" chance="90"/><!-- Green Gem -->
+	</loot>
 </monster>

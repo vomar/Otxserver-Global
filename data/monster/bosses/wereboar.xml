@@ -25,20 +25,21 @@
 		<voice sentence="Grunt"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="75" chance="25000"/>	<!-- gold -->
-		<item id="8473" countmax="2" chance="15000"/>	<!-- ultimate health potion -->
-		<item id="7588" countmax="2" chance="15000"/>	<!-- strong health potion -->
-		<item id="24881" chance="12000"/>	<!-- wereboar hoove -->
-		<item id="24915" chance="12000"/>	<!-- Wereboar Loincloth -->
-		<item id="24882" chance="12000"/>	<!-- Wereboar Tusks -->
-		<item id="2197" chance="5000"/>	<!-- stone skin amulet -->
-		<item id="7439" chance="3000"/>	<!-- berserket potion -->
-		<item id="7432" chance="4000"/>	<!-- furry club -->
-		<item id="7419" chance="2000"/>	<!-- Dreaded Cleaver -->
-		<item id="24913" chance="1500"/>	<!-- fur armor -->
-		<item id="24930" chance="1500"/>	<!-- Wereboar trophy -->
-		<item id="24888" chance="700"/>	<!-- Werewolf amulet -->
-		<item id="24881" chance="12000"/>	<!-- wereboar hoove -->
-		<item id="2152" countmax="2" chance="20000"/>	<!-- platinum coin -->
+		<item id="2152" countmax="3" chance="100000"/>	<!-- platinum coin -->
+		<item id="2148" countmax="75" chance="80100"/>	<!-- gold -->
+		<item id="24709" chance="14710"/>	<!-- wereboar hooves -->		
+		<item id="24710" chance="14450"/>	<!-- Wereboar Tusks -->
+		<item id="2789" countmax="2" chance="7230"/>	<!-- brown mushroom -->		
+		<item id="7588" chance="4630"/>	<!-- strong health potion -->		
+		<item id="8473" chance="1790"/>	<!-- ultimate health potion -->
+		<item id="24743" chance="1580"/>	<!-- Wereboar Loincloth -->
+		<item id="7439" chance="990"/>	<!-- berserket potion -->
+		<item id="7432" chance="700"/>	<!-- furry club -->
+		<item id="24888" chance="640"/>	<!-- Werewolf amulet -->		
+		<item id="2197" chance="620"/>	<!-- stone skin amulet -->
+		<item id="24739" chance="370"/>	<!-- moonlight crystals -->	
+		<item id="24741" chance="260"/>	<!-- fur armor -->
+		<item id="24758" chance="150"/>	<!-- Wereboar trophy -->
+		<item id="7419" chance="130"/>	<!-- Dreaded Cleaver -->
 	</loot>
 </monster>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Vile Grandmaster" nameDescription="Vile Grandmaster" race="blood" experience="1500" speed="170" manacost="0">
     <health now="1700" max="1700" />
-    <look type="268" head="86" body="0" legs="114" feet="94" addons="1" corpse="24679" />
+    <look type="268" head="86" body="0" legs="114" feet="94" addons="1" corpse="24672" />
 	<targetchange interval="4000" chance="0"/>
 	<strategy attack="70" defense="20"/>
 	<flags>
-                <flag summonable="0"/>
+        <flag summonable="0"/>
 		<flag attackable="1"/>
 		<flag hostile="1"/>
 		<flag illusionable="1"/>
@@ -42,18 +42,23 @@
 		<voice sentence="Youll make a fine trophy!"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="83210"/>	<!-- gold coin -->
-		<item id="2050" countmax="2" chance="30000"/>	<!-- torch -->
-		<item id="2403" chance="9750"/>					<!-- knife -->
-		<item id="2399" countmax="14" chance="7210"/>	<!-- throwing star -->
-		<item id="7366" countmax="7" chance="4200"/>	<!-- viper star -->
-		<item id="2404" chance="4000"/>					<!-- combat knife -->
-		<item id="2457" chance="3190"/>					<!-- steel helmet -->
-		<item id="2510" chance="1910"/>					<!-- plate shield -->
-		<item id="2513" chance="1560"/>					<!-- battle shield -->
-		<item id="2509" chance="940"/>					<!-- steel shield -->
-		<item id="3968" chance="480"/>					<!-- leopard armor -->
-		<item id="3969" chance="240"/>					<!-- horseman helmet -->
-		<item id="2145" chance="220"/>					<!-- small diamond -->
+		<item id="2148" countmax="171" chance="99670"/>	<!-- gold coin -->
+		<item id="2152" countmax="2" chance="71770"/>	<!-- platinum coin -->
+		<item id="2666" chance="8420"/>	<!-- Meat -->
+		<item id="7591" chance="7490"/>	<!-- Great Health Potion -->
+		<item id="12466" chance="7160"/>	<!-- Scroll of Heroic Deeds -->
+		<item id="2121" chance="4640"/>	<!-- Wedding Ring -->
+		<item id="2146" chance="3640"/>	<!-- Small Sapphire -->
+		<item id="2147" chance="3380"/>	<!-- Small Ruby -->
+		<item id="12406" chance="2780"/>	<!-- Small Notebook -->
+		<item id="2391" chance="2520"/>	<!-- War Hammer -->
+		<item id="5911" chance="1860"/>	<!-- Red Piece of Cloth -->
+		<item id="2487" chance="1130"/>	<!-- Crown Armor -->
+		<item id="2392" chance="1060"/>	<!-- Fire Sword -->
+		<item id="2488" chance="990"/>	<!-- Crown Legs -->
+		<item id="2491" chance="800"/>	<!-- Crown Helmet -->
+		<item id="2171" chance="400"/>	<!-- Platinum Amulet -->
+		<item id="2519" chance="330"/>	<!-- Crown Shield -->
+		<item id="2114" chance="130"/>	<!-- Piggy Bank -->
 	</loot>
 </monster>

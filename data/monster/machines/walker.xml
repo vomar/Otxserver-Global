@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Walker" nameDescription="a walker" race="blood" experience="2200" speed="200" manacost="490">
 	<health now="3000" max="3000"/>
-	<look type="605" corpse="23356"/>
+	<look type="605" corpse="23363"/>
 	<targetchange interval="4000" chance="10"/>
 	<flags>
 	    <flag summonable="1"/>
@@ -27,8 +27,17 @@
 		<element deathPercent="-10"/>
 	</elements>
 	<loot>
-		<item id="2148" countmax="47" chance="82000"/><!-- gold coin -->
-		<item id="7618" chance="210"/><!-- health potion -->
-		<item id="2666" chance="30070"/><!-- meat -->
+		<item id="2148" countmax="199" chance="100000"/><!-- gold coin -->
+		<item id="2152" countmax="3" chance="53150"/><!-- Platinum Coin -->
+		<item id="23569" chance="20930"/><!-- Metal Toe -->
+		<item id="9970" countmax="6" chance="10190"/><!-- Small Topaz -->
+		<item id="7591" chance="8520"/><!-- Great Health Potion -->
+		<item id="8472" chance="7720"/><!-- Great Spirit Potion -->
+		<item id="2150" countmax="3" chance="4380"/><!-- Small Amethyst -->
+		<item id="2149" countmax="3" chance="4200"/><!-- Small Emerald -->
+		<item id="23540" chance="3700"/><!-- Metal Spats -->
+		<item id="23541" chance="2410"/><!-- Gearwheel Chain -->
+		<item id="2445" chance="800"/><!-- Crystal Mace -->
+		<item id="2645" chance="560"/><!-- Steel Boots -->
 	</loot>
 </monster>

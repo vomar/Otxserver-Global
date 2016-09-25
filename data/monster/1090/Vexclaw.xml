@@ -34,9 +34,36 @@
 		<voice sentence="Yoooohhuuuu!" yell="1"/>
 	</voices>
 	<loot>
-		<item id="2671" countmax="2" chance="35000"/><!-- ham -->
-		<item id="5897" chance="710"/><!-- wolf paw -->
-		<item id="3976" chance="40"/><!-- wolf trophy -->
-		<item id="11235" chance="5230"/><!-- warwolf fur -->
+		<item id="2148" countmax="200" chance="100000"/><!-- gold coin -->
+		<item id="2152" countmax="9" chance="100000"/><!-- platinum coin -->		
+		<item id="8472" countmax="5" chance="26430"/><!-- great spirit potion -->
+		<item id="7590" countmax="5" chance="25160"/><!-- great mana potion -->	
+		<item id="25384" chance="22000"/><!-- vexclaw talon -->	
+		<item id="6500" chance="21220"/><!-- Demonic Essence -->
+		<item id="2795" countmax="6" chance="20460"/><!-- fire mushroom -->
+		<item id="8473" countmax="5" chance="20040"/><!-- ultimate health potion -->
+		<item id="2150" countmax="5" chance="10210"/><!-- small amethyst -->
+		<item id="9970" countmax="5" chance="9810"/><!-- small topaz -->
+		<item id="2149" countmax="5" chance="9570"/><!-- small emerald -->
+		<item id="2147" countmax="5" chance="9300"/><!-- small ruby -->
+		<item id="2154" chance="5140"/><!-- Yellow Gem -->
+		<item id="2396" chance="4800"/><!-- ice rapier -->		
+		<item id="2156" chance="4500"/><!-- Red Gem -->
+		<item id="2432" chance="3480"/><!-- fire axe -->
+		<item id="2164" chance="2200"/><!-- might ring -->
+		<item id="2204" chance="1860"/><!-- energy ring -->	
+		<item id="2393" chance="1840"/><!-- giant sword -->		
+		<item id="25383" chance="1540"/><!-- rift lance -->
+		<item id="2216" chance="1420"/><!-- ring of healing -->
+		<item id="2171" chance="980"/><!-- platinum amulet -->	
+		<item id="2462" chance="910"/><!-- devil helmet -->
+		<item id="2470" chance="590"/><!-- golden legs -->
+		<item id="25522" chance="590"/><!-- rift bow -->
+		<item id="2514" chance="560"/><!-- Mastermind Shield -->
+		<item id="25382" chance="510"/><!-- rift shield -->
+		<item id="2520" chance="470"/><!-- Demon Shield -->
+		<item id="25523" chance="340"/><!-- rift crossbow -->
+		<item id="2472" chance="70"/><!-- magic plate armor -->
+		<item id="7382" chance="50"/><!-- demonrage sword -->
 	</loot>
 </monster>

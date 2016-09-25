@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Ogre Brute" nameDescription="Ogre Brute" race="blood" experience="800" speed="200" manacost="0">
 	<health now="1000" max="1000"/>
-	<look type="857" corpse="24802"/>
+	<look type="857" corpse="24799"/>
 	<targetchange interval="4000" chance="0"/>
 	<flags>
 		<flag summonable="0"/>
@@ -27,38 +27,33 @@
 		<element deathPercent="-5"/>
 	</elements>
 	<immunities>
-		<immunity paralyze="1"/>
-		<immunity invisible="1"/>
-		<immunity earth="1" />
+		<immunity outfit="1"/>
 	</immunities>
 	<voices interval="2000" chance="10">
-		<voice sentence="You so juicy!"/>
-		<voice sentence="You stop! You lunch!"/>
-		<voice sentence="Smash you face in!!!" yell="1"/>
+		<voice sentence="Grrrrrrr"/>
+		<voice sentence="Yoooohhuuuu!" yell="1"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="119" chance="100000"/><!-- gold coin -->
-		<item id="2147" countmax="2" chance="35000"/><!-- small rubies -->
-		<item id="2666" countmax="2" chance="35000"/><!-- meat -->
-		<item id="1294" countmax="5" chance="35000"/><!-- small stone -->
-		<item id="10549" chance="35000"/><!-- ancient stone -->
-		<item id="12403" chance="35000"/><!-- battle stone -->
-		<item id="2687" chance="35000"/><!-- cookie -->
-		<item id="2209" chance="35000"/><!-- club ring -->
-		<item id="24844" chance="35000"/><!-- ogre ear stud -->
-		<item id="24845" chance="35000"/><!-- ogre nose ring -->
-		<item id="24849" countmax="2" chance="35000"/><!-- onyx chip -->
-		<item id="24850" chance="35000"/><!-- opal -->
-		<item id="2166" chance="35000"/><!-- power ring -->
-		<item id="24847" chance="35000"/><!-- skull fetish -->
-		<item id="7588" chance="35000"/><!-- strong health potion -->
-		<item id="2143" chance="35000"/><!-- white pearl -->
-		<item id="7428" chance="35000"/><!-- bonebreaker -->
-		<item id="7419" chance="35000"/><!-- dreaded cleaver -->
-		<item id="24828" chance="35000"/><!-- ogre choppa -->
-		<item id="24827" chance="35000"/><!-- ogre klubba -->
-		<item id="2562" chance="35000"/><!-- pot -->
-		<item id="9820" chance="35000"/><!-- rusty helmet -->
-		<item id="24848" chance="35000"/><!-- shamanic mask-->
+	<item id="2148" countmax="2" chance="98360"/><!-- gold coin -->
+	<item id="24844" chance="18710"/><!-- Ogre Ear Stud	 -->
+	<item id="2666" countmax="2" chance="15500"/><!-- meat -->
+	<item id="24845" chance="14560"/><!-- Ogre Nose Ring -->
+	<item id="7588" chance="11970"/><!-- Strong Health Potion -->
+	<item id="12403" chance="5990"/><!-- Battle Stone -->
+	<item id="1294" countmax="2" chance="5170"/><!-- Small Stone -->
+	<item id="24847" chance="4600"/><!-- Skull Fetish -->
+	<item id="2687" countmax="2" chance="3780"/><!-- Cookie -->
+	<item id="2212" chance="2520"/><!-- Club Ring -->
+	<item id="2147" countmax="2" chance="2330"/><!-- Small Ruby -->
+	<item id="2143" chance="2270"/><!-- White Pearl -->
+	<item id="24849" countmax="2" chance="1950"/><!-- Onyx Chip -->
+	<item id="24850" countmax="2" chance="1950"/><!-- Opal -->
+	<item id="2203" chance="1510"/><!-- Power Ring -->
+	<item id="24827" chance="880"/><!-- Ogre Klubba -->
+	<item id="25298" chance="320"/><!-- Pot -->
+	<item id="7428" chance="250"/><!-- Bonebreaker -->
+	<item id="9822" chance="190"/><!-- Rusty Helmet -->
+	<item id="24848" chance="190"/><!-- Shamanic Mask -->
+	<item id="10549" chance="130"/><!-- Ancient Stone -->
 	</loot>
 </monster>

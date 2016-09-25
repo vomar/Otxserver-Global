@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Glooth Brigand" nameDescription="a glooth brigand" race="blood" experience="1900" speed="400" manacost="490">
-	<health now="2400" max="2400" />
-	<look type="137" head="114" body="114" legs="108" feet="114" corpse="24257" />
+<monster name="Glooth Brigand" nameDescription="a glooth brigand" race="blood" experience="1900" speed="180" manacost="450">
+	<health now="2400" max="2400"/>
+	<look type="137" head="114" body="114" legs="107" feet="114" corpse="24258"/>
 	<targetchange interval="5000" chance="5"/>
 	<flags>
-		<flag summonable="0"/>
+        <flag summonable="0"/>
 		<flag attackable="1"/>
 		<flag hostile="1"/>
 		<flag illusionable="0"/>
@@ -35,31 +35,33 @@
 		<immunity invisible="1"/>
 		<immunity poison="1"/>
 	</immunities>
-	<voices interval="2000" chance="7">
-		
-		<voice sentence="Toks utat." />
-		<voice sentence="Youh ah trak!" />
-		<voice sentence="Let da mashing begin!" />
-	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="82000" /><!-- gold coin -->
-		<item id="2152" countmax="12" chance="12000" /><!-- Platinum Coins -->		
-		<item id="7632" chance="210" /><!-- Giant Shimmering Pearl -->
-		<item id="8473" countmax="4" chance="2210" /><!-- Ultimate Health Potion -->
-		<item id="8472" countmax="4" chance="2100" /><!-- Great Spirit Potion -->
-		<item id="7590" countmax="4" chance="2010" /><!-- Great Mana Potion -->
-		<item id="23517" chance="510" /><!-- Glooth Steak -->
-		<item id="23514" chance="910" /><!-- Glooth Sandwich -->
-		<item id="23574" chance="910" /><!-- Glooth Bag -->		
-		<item id="23529" chance="310" /><!-- Glooth Spear -->
-		<item id="23554" chance="200" /><!-- Glooth Amulet -->
-		<item id="23549" chance="200" /><!-- Glooth Club -->
-		<item id="7886" chance="300" /><!-- Terra Boots -->
-		<item id="7903" chance="690" /><!-- Terra Hood -->
-		<item id="7885" chance="203" /><!--  Terra Legs -->
-		<item id="7884" chance="120" /><!-- Terra Mantle -->
-		<item id="7412" chance="90" /><!-- Butcher's Axe -->
-		<item id="23538" chance="100" /><!-- Heat Core -->
-		<item id="7386" chance="100" /><!-- mercenary sword -->
+		<item id="2148" countmax="100" chance="100000"/><!-- Gold Coin -->
+		<item id="2152" countmax="3" chance="79910"/><!-- Platinum Coin -->
+		<item id="23574" countmax="2" chance="9830"/><!-- Glooth Bag -->		
+<!-- Tainted Glooth Capsule -->		
+		<item id="8472" chance="3540"/><!-- Great Spirit Potion -->
+		<item id="7590" chance="3490"/><!-- Great Mana Potion -->		
+		<item id="8473" chance="3450"/><!-- Ultimate Health Potion -->
+<!-- Glooth Capsule -->
+		<item id="23517" chance="2500"/><!-- Glooth Steak -->
+		<item id="23514" chance="2480"/><!-- Glooth Sandwich -->		
+		<item id="7632" chance="1500"/><!-- Giant Shimmering Pearl -->
+		<item id="23529" chance="1000"/><!-- Glooth Spear -->
+		<item id="23550" chance="1000"/><!-- Glooth Blade -->
+		<item id="23549" chance="1000"/><!-- Glooth Club -->
+		<item id="23551" chance="980"/><!-- Glooth Axe -->
+		<item id="23554" chance="960"/><!-- Glooth Amulet -->
+		<item id="7903" chance="710"/><!-- Terra Hood -->
+		<item id="23536" chance="640"/><!-- Rubber Cap -->
+		<item id="7884" chance="600"/><!-- Terra Mantle -->
+		<item id="7885" chance="500"/><!-- Terra Legs -->
+		<item id="7886" chance="490"/><!-- Terra Boots -->
+		<item id="7887" chance="400"/><!-- Terra Amulet -->
+		<item id="2155" chance="200"/><!-- Green Gem -->
+		<item id="23538" chance="160"/><!-- Heat Core -->
+		<item id="7386" chance="140"/><!-- Mercenary Sword -->
+		<item id="7419" chance="100"/><!-- Dreaded Cleaver -->
+		<item id="7412" chance="50"/><!-- Butcher's Axe -->
 	</loot>
 </monster>

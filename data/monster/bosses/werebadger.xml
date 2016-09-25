@@ -25,14 +25,23 @@
 		<voice sentence="SNUFFLEE"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="25000"/>	<!-- gold -->
-		<item id="8473" countmax="2" chance="15000"/>	<!-- ultimate health potion -->
-		<item id="7588" countmax="2" chance="15000"/>	<!-- strong health potion -->
-		<item id="24879" chance="9000"/>	<!-- werebear fur -->
-		<item id="24883" chance="8000"/>	<!-- Werebear Skull -->
-		<item id="24914" chance="1000"/>	<!-- fur armor -->
-		<item id="24929" chance="500"/>	<!-- Werebadger trophy -->
-		<item id="24888" chance="1000"/>	<!-- Werewolf amulet -->
-		<item id="2152" countmax="3" chance="20000"/>	<!-- platinum coin -->
+		<item id="2152" countmax="3" chance="100000"/>	<!-- platinum coin -->
+		<item id="2148" countmax="75" chance="83160"/>	<!-- gold -->
+		<item id="8845" countmax="1" chance="24110"/>	<!-- Beetroot -->
+		<item id="24711" chance="15500"/>	<!-- Werebadger Skull -->
+		<item id="24707" chance="12730"/>	<!-- Werebadger Claws -->
+		<item id="7620" chance="5840"/>	<!-- Mana Potion -->
+		<item id="2805" chance="5450"/>	<!-- Troll Green -->
+		<item id="2789" chance="5360"/>	<!-- Brown Mushroom -->
+		<item id="7589" chance="4590"/>	<!-- Strong Mana Potion -->
+		<item id="24739" chance="1440"/>	<!-- Moonlight Crystals -->
+		<item id="7590" chance="1240"/>	<!-- Great Mana Potion -->
+		<item id="2214" chance="960"/>	<!-- Ring of Healing -->
+		<item id="24742" chance="770"/>	<!-- Badger Boots -->
+		<item id="8922" chance="770"/>	<!-- Wand of Voodoo -->
+		<item id="2171" chance="380"/>	<!-- Platinum Amulet -->
+		<item id="8910" chance="380"/>	<!-- Underworld Rod -->
+		<item id="24716" chance="380"/>	<!-- Werewolf Amulet -->
+		<item id="24757" chance="100"/>	<!-- Werebadger Trophy -->
 	</loot>
 </monster>

@@ -27,8 +27,18 @@
 		<element deathPercent="-10"/>
 	</elements>
 	<loot>
-		<item id="2148" countmax="47" chance="82000"/><!-- gold coin -->
-		<item id="7618" chance="210"/><!-- health potion -->
-		<item id="2666" chance="30070"/><!-- meat -->
+		<item id="2148" countmax="80" chance="100000"/><!-- gold coin -->
+		<item id="23553" chance="14170"/><!-- Glob of Glooth -->
+		<item id="2152" chance="10160"/><!-- Platinum Coin -->
+		<item id="7589" chance="10160"/><!-- Strong Mana Potion -->
+		<item id="7588" chance="10130"/><!-- Strong Health Potion -->
+		<item id="2146" chance="5030"/><!-- Small Sapphire -->
+		<item id="2149" countmax="2" chance="4940"/><!-- Small Emerald -->
+		<item id="9970" countmax="2" chance="4850"/><!-- Small Topaz -->
+		<item id="23529" chance="4800"/><!-- Glooth Spear -->
+		<item id="2168" chance="1450"/><!-- Life Ring -->
+		<item id="23551" chance="120"/><!-- Glooth Axe -->
+		<item id="23554" chance="100"/><!-- Glooth Amulet -->
+		<item id="2155" chance="90"/><!-- Green Gem -->
 	</loot>
 </monster>

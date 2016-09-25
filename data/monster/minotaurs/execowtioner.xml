@@ -46,22 +46,23 @@
 		<voice sentence="There is excellence in execution!"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="186" chance="100000"/>	<!-- gold coin -->
-		<item id="2152" countmax="3" chance="65000"/>		<!-- platinum coin -->
-		<item id="5878" chance="14000"/>					<!-- minotaur leather -->
-		<!-- execowtioner mask -->
-		<item id="7591" chance="9600"/>						<!-- great health potion -->
-		<item id="7590" chance="8400"/>						<!-- great mana potion -->
-		<item id="2666" chance="6600"/>						<!-- meat -->
-		<item id="12428" countmax="2" chance="6000"/>		<!-- minotaur horn -->
-		<item id="9970" countmax="2" chance="6000"/>		<!-- small topaz -->
-		<item id="2147" countmax="2" chance="4800"/>		<!-- small ruby -->
-		<item id="5911" chance="3000"/>						<!-- red piece of cloth -->
-		<item id="7412" chance="1800"/>						<!-- butcher's axe -->
-		<item id="2487" chance="600"/>						<!-- crown armor -->
-		<!-- execowtioner axe -->
-		<item id="9971" chance="600"/>						<!-- gold ingot -->
-		<item id="2430" chance="600"/>						<!-- knight axe -->
-		<item id="7401" chance="600"/>						<!-- minotaur trophy -->
+		<item id="2148" countmax="198" chance="100000"/>	<!-- gold coin -->
+		<item id="2152" countmax="3" chance="65320"/>		<!-- platinum coin -->
+		<item id="5878" chance="14380"/>					<!-- minotaur leather -->
+		<item id="23572" chance="12940"/>					<!-- execowtioner mask -->
+		<item id="7591" chance="10870"/>					<!-- great health potion -->
+		<item id="7590" chance="9970"/>						<!-- great mana potion -->
+		<item id="2666" chance="7190"/>						<!-- meat -->
+		<item id="12428" countmax="2" chance="5570"/>		<!-- minotaur horn -->
+		<item id="9970" countmax="2" chance="5570"/>		<!-- small topaz -->
+		<item id="2147" countmax="2" chance="4490"/>		<!-- small ruby -->
+		<item id="5911" chance="2880"/>						<!-- red piece of cloth -->
+		<item id="23547" chance="1080"/>					<!-- execowtioner axe -->
+		<item id="2430" chance="1080"/>						<!-- knight axe -->
+		<item id="7412" chance="630"/>						<!-- butcher's axe -->
+		<item id="2487" chance="540"/>						<!-- crown armor -->
+		<item id="7401" chance="450"/>						<!-- minotaur trophy -->
+		<item id="9971" chance="450"/>						<!-- gold ingot -->
+		<item id="9971" chance="270"/>						<!-- titan axe -->		
 	</loot>
 </monster>

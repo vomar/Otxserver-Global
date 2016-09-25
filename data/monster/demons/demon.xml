@@ -15,7 +15,7 @@
 		<flag targetdistance="1"/>
 		<flag staticattack="70"/>
 		<flag runonhealth="0"/>
-	<flag isblockable="0" /> </flags>
+	</flags>
 	<attacks>
 		<attack name="melee" interval="2000" skill="70" attack="130"/>
 		<attack name="manadrain" interval="2000" chance="10" range="7" min="0" max="-120"/>
@@ -69,34 +69,39 @@
 		<voice sentence="Your resistance is futile!"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="60000"/><!-- gold coin -->
-		<item id="2148" countmax="99" chance="60000"/><!-- gold coin -->
-		<item id="2152" countmax="6" chance="100000"/><!-- platinum coin -->
-		<item id="2795" countmax="6" chance="20740"/><!-- fire mushroom -->
-		<item id="8473" countmax="3" chance="20000"/><!-- ultimate health potion -->
-		<item id="7590" countmax="3" chance="14285"/><!-- great mana potion -->
-		<item id="2387" chance="14285"/><!-- double axe -->
-		<item id="2149" chance="10000"/><!-- small emerald -->
-		<item id="7368" countmax="5" chance="5263"/><!-- assassin star -->
-		<item id="2432" chance="3703"/><!-- fire axe -->
-		<item id="2151" chance="3571"/><!-- talon -->
-		<item id="2176" chance="2854"/><!-- orb -->
-		<item id="2393" chance="2000"/><!-- giant sword -->
-		<item id="2418" chance="1428"/><!-- golden sickle -->
-		<item id="2165" chance="1333"/><!-- stealth ring -->
-		<item id="2462" chance="1204"/><!-- devil helmet -->
-		<item id="1982" chance="1190"/><!-- purple tome -->
-		<item id="2179" chance="1010"/><!-- gold ring -->
-		<item id="2171" chance="813"/><!-- platinum amulet -->
-		<item id="2396" chance="666"/><!-- ice rapier -->
-		<item id="2520" chance="649"/><!-- demon shield -->
-		<item id="2214" chance="473"/><!-- ring of healing -->
-		<item id="5954" chance="467"/><!-- demon horn -->
-		<item id="2470" chance="413"/><!-- golden legs -->
-		<item id="2514" chance="389"/><!-- mastermind shield -->
-		<item id="2164" chance="170"/><!-- might ring -->
-		<item id="2472" chance="70"/><!-- magic plate armor -->
+		<item id="2148" countmax="200" chance="97140"/><!-- gold coin -->
+		<item id="2152" countmax="6" chance="89880"/><!-- platinum coin -->
+		<item id="7590" countmax="3" chance="22020"/><!-- great mana potion -->		
+		<item id="2795" countmax="6" chance="19650"/><!-- fire mushroom -->		
+		<item id="8473" countmax="3" chance="19550"/><!-- ultimate health potion -->
+		<item id="8472" countmax="3" chance="17990"/><!-- great spirit potion -->
+		<item id="5954" chance="14550"/><!-- demon horn -->
+		<item id="6500" chance="14250"/><!-- demonic essence -->
+		<item id="7368" countmax="10" chance="12330"/><!-- assassin star -->
+		<item id="2149" countmax="5" chance="9700"/><!-- small emerald -->
+		<item id="9970" countmax="5" chance="7270"/><!-- small topaz -->
+		<item id="2147" countmax="5" chance="7250"/><!-- small ruby -->
+		<item id="2150" countmax="5" chance="7040"/><!-- small amethyst -->
+		<item id="2387" chance="5130"/><!-- double axe -->
+		<item id="2432" chance="4010"/><!-- fire axe -->
+		<item id="2151" chance="3440"/><!-- talon -->
+		<item id="2176" chance="2830"/><!-- orb -->
+		<item id="2156" chance="2190"/><!-- red gem -->
+		<item id="2165" chance="2150"/><!-- stealth ring -->
+		<item id="2393" chance="2010"/><!-- giant sword -->		
+		<item id="2214" chance="1930"/><!-- ring of healing -->		
+		<item id="2164" chance="1830"/><!-- might ring -->
+		<item id="2396" chance="1510"/><!-- ice rapier -->		
+		<item id="2418" chance="1440"/><!-- golden sickle -->		
+		<item id="1982" chance="1210"/><!-- purple tome -->
+		<item id="2462" chance="1180"/><!-- devil helmet -->
+		<item id="2179" chance="1070"/><!-- gold ring -->
+		<item id="2520" chance="740"/><!-- demon shield -->
+		<item id="2171" chance="660"/><!-- platinum amulet -->
+		<item id="2514" chance="470"/><!-- mastermind shield -->
+		<item id="2470" chance="440"/><!-- golden legs -->
+		<item id="2472" chance="130"/><!-- magic plate armor -->
 		<item id="7393" chance="100"/><!-- demon trophy -->
-		<item id="7382" chance="80"/><!-- demonrage sword -->
+		<item id="7382" chance="70"/><!-- demonrage sword -->
 	</loot>
 </monster>

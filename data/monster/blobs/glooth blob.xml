@@ -27,8 +27,13 @@
 		<element deathPercent="-10"/>
 	</elements>
 	<loot>
-		<item id="2148" countmax="47" chance="82000"/><!-- gold coin -->
-		<item id="7618" chance="210"/><!-- health potion -->
-		<item id="2666" chance="30070"/><!-- meat -->
+		<item id="2148" countmax="70" chance="100000"/><!-- gold coin -->
+		<item id="23553" chance="15100"/><!-- Glob of Glooth -->
+		<item id="2146" countmax="2" chance="3140"/><!-- Small Sapphire -->
+		<item id="9970" countmax="2" chance="2840"/><!-- Small Topaz -->
+		<item id="23551" chance="720"/><!-- Glooth Axe -->
+		<item id="23549" chance="630"/><!-- Glooth Club -->
+		<item id="23550" chance="570"/><!-- Glooth Blade -->
+		<item id="23554" chance="420"/><!-- Glooth Amulet -->
 	</loot>
 </monster>

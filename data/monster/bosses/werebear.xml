@@ -25,21 +25,25 @@
 		<voice sentence="GRRR"/>
 	</voices>
 	<loot>
-		<item id="2148" countmax="100" chance="25000"/>	<!-- gold -->
-		<item id="8473" countmax="2" chance="15000"/>	<!-- ultimate health potion -->
-		<item id="7588" countmax="2" chance="15000"/>	<!-- strong health potion -->
-		<item id="24885" chance="9000"/>	<!-- werebear fur -->
-		<item id="24884" chance="8000"/>	<!-- Werebear Skull -->
-		<item id="5902" chance="10000"/>	<!-- honeycomb -->
-		<item id="2197" chance="5000"/>	<!-- stone skin amulet -->
-		<item id="7439" chance="3000"/>	<!-- berserket potion -->
-		<item id="7432" chance="4000"/>	<!-- furry club -->
-		<item id="7419" chance="500"/>	<!-- Dreaded Cleaver -->
-		<item id="24913" chance="1000"/>	<!-- fur armor -->
-		<item id="24931" chance="500"/>	<!-- Werebear trophy -->
-		<item id="24888" chance="1000"/>	<!-- Werewolf amulet -->
-		<item id="7383" chance="1000"/>	<!-- relic sword -->
-		<item id="5896" chance="8000"/>	<!-- bear paw -->
-		<item id="2152" countmax="3" chance="20000"/>	<!-- platinum coin -->
+		<item id="2152" countmax="3" chance="100000"/>	<!-- platinum coin -->
+		<item id="2148" countmax="100" chance="80050"/>	<!-- gold -->
+		<item id="24712" chance="16000"/>	<!-- Werebear Skull -->
+		<item id="24713" chance="15260"/>	<!-- werebear fur -->		
+		<item id="2671" chance="12080"/>	<!-- ham -->		
+		<item id="7591" chance="4430"/>	<!-- great health potion -->				
+		<item id="5896" chance="2810"/>	<!-- bear paw -->
+		<item id="5902" chance="2540"/>	<!-- honeycomb -->				
+		<item id="8473" chance="2250"/>	<!-- ultimate health potion -->				
+		<item id="24716" chance="1080"/>	<!-- Werewolf amulet -->				
+		<item id="2197" chance="1020"/>	<!-- stone skin amulet -->
+		<item id="7432" chance="900"/>	<!-- furry club -->
+		<item id="7439" chance="890"/>	<!-- berserk potion -->	
+		<item id="2169" chance="680"/>	<!-- time ring -->	
+		<item id="7452" chance="590"/>	<!-- spiked squelcher -->			
+		<item id="7383" chance="550"/>	<!-- relic sword -->
+		<item id="24741" chance="520"/>	<!-- fur armor -->
+		<item id="24739" chance="360"/>	<!-- moonlight crystals -->	
+		<item id="24759" chance="190"/>	<!-- Werebear trophy -->
+		<item id="7419" chance="140"/>	<!-- Dreaded Cleaver -->		
 	</loot>
 </monster>

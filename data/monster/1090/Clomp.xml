@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Clomp" nameDescription="Clomp" race="blood" experience="275" speed="200" manacost="0">
-	<health now="900" max="900"/>
+	<health now="960" max="960"/>
 	<look type="860" corpse="25398"/>
 	<targetchange interval="4000" chance="0"/>
 	<flags>
@@ -27,20 +27,17 @@
 		<element deathPercent="-5"/>
 	</elements>
 	<immunities>
-		<immunity paralyze="1"/>
-		<immunity invisible="1"/>
-		<immunity earth="1" />
+		<immunity outfit="1"/>
 	</immunities>
 	<voices interval="2000" chance="10">
-		<voice sentence="Snort!"/>
-		<voice sentence="Snarl!"/>
-		<voice sentence="Grunt!" yell="1"/>
+		<voice sentence="Grrrrrrr"/>
+		<voice sentence="Yoooohhuuuu!" yell="1"/>
 	</voices>
 	<loot>
-		<item id="5925" countmax="1" chance="35000"/><!-- hardene bone -->
-		<item id="24842" countmax="3" chance="2000"/><!-- raw meat -->
-		<item id="11224" chance="2000"/><!-- thick fur -->
-		<item id="3973" chance="5230"/><!-- tusk shield -->
-		<item id="7432" chance="5230"/><!-- furry club-->
+	<item id="24842" chance="17310"/><!-- Raw Meat -->
+	<item id="11224" chance="7630"/><!-- Thick Fur -->
+	<item id="5925" chance="7490"/><!-- Hardened Bone -->
+	<item id="3973" chance="640"/><!-- Tusk Shield -->
+	<item id="7432" chance="350"/><!-- Furry Club -->
 	</loot>
 </monster>
